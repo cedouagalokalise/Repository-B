@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+	<file original="" datatype="plaintext" xml:space="preserve" source-language="en" target-language="fr">
+		<header>
+			<tool tool-id="lokalise.com" tool-name="Lokalise"/>
+		</header>
+		<body>
+			<trans-unit id="lokalise-152792271-1" resname="menu::en">
+				<source>English</source>
+				<target state="new"></target>
+			</trans-unit>
+			<trans-unit id="lokalise-152792272-1" resname="menu::ru">
+				<source>Russian</source>
+				<target state="new"></target>
+			</trans-unit>
+			<trans-unit id="lokalise-152792273-1" resname="menu::home">
+				<source>Home</source>
+				<target state="new"></target>
+			</trans-unit>
+			<trans-unit id="lokalise-152792274-1" resname="menu::about">
+				<source>About</source>
+				<target state="translated">A propos de</target>
+			</trans-unit>
+			<trans-unit id="lokalise-152792275-1" resname="main::welcome">
+				<source>Hello from {company}!</source>
+				<target state="translated">Bonjour de {company} !</target>
+			</trans-unit>
+			<trans-unit id="lokalise-152792276-1" resname="main::new_message">
+				<source>no messages | one message | {count} messages</source>
+				<target state="new"></target>
+			</trans-unit>
+			<trans-unit id="lokalise-152792277-1" resname="about::welcome">
+				<source>Welcome to the About page. Have a nice day.</source>
+				<target state="new"></target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
