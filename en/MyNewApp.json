@@ -1,7 +1,8 @@
 {
     "menu": {
-        "english key": "English 2",
+        "english key": "English",
         "ru": "Russian language",
+        "fr": "French language",
         "home": "Home",
         "about": "About"
     },
