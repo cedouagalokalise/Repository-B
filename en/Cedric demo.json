@@ -1,0 +1,22 @@
+{
+  "menu": {
+    "EN_UK": "English language",
+    "RU": "Russian",
+    "home": "Home", 
+    "marketName":"United Kingdom",
+    "about": "About"
+  },
+  "main": {
+    "welcome": "Hello from {company}!",
+    "intro": "Let the journey begin",
+    "Tab_flights": "Flights",
+    "Tab_Hotels": "Hotels",
+    "Homepage": "Login here",
+    "Tab_Carhire": "Car Hire",
+    "SIGNUP_PROMPT_SUBTITLE":"You can spend less money, time and effort with an account.",
+    "new_message": "no messages | one message | {count} messages"
+  },
+  "about": {
+    "welcome": "Welcome to the About page!"
+  }
+}
